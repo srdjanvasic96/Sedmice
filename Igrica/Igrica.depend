@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1693502165 source:c:\users\win7\desktop\programiranje\igrica\main.cpp
+	<iostream>
+	"Sedmice.h"
+	<regex>
+
+1693494420 source:c:\users\win7\desktop\programiranje\igrica\player.cpp
+	"Player.h"
+	<algorithm>
+
+1693504359 source:c:\users\win7\desktop\programiranje\igrica\sedmice.cpp
+	"Sedmice.h"
+	<chrono>
+	<algorithm>
+	<iomanip>
+	<regex>
+
+1693395059 source:c:\users\win7\desktop\programiranje\igrica\card.cpp
+	"Card.h"
+
+1693393023 c:\users\win7\desktop\programiranje\igrica\card.h
+	<string>
+	<iostream>
+
+1693494339 c:\users\win7\desktop\programiranje\igrica\player.h
+	<vector>
+	"Card.h"
+
+1693500237 c:\users\win7\desktop\programiranje\igrica\sedmice.h
+	"Player.h"
+	<string>
+	<random>
+
